@@ -1,3 +1,4 @@
+// Note: AI was used for knowledge purposes only and treated as per knowledge.
 /**
  * Helper utilities for the weather app
  */

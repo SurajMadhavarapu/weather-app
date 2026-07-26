@@ -1,3 +1,4 @@
+// Note: AI was used for knowledge purposes only and treated as per knowledge.
 import { useState, useRef, useEffect, useCallback } from 'react';
 import { checkOllamaStatus, sendChatMessage } from '../services/ollamaService';
 

@@ -1,3 +1,4 @@
+// Note: AI was used for knowledge purposes only and treated as per knowledge.
 import { useState } from 'react';
 import { tempDisplay } from '../utils/helpers';
 import { getWeatherInfo, WeatherIcon } from '../utils/weatherCodes';

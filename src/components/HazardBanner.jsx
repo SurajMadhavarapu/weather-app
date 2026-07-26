@@ -1,3 +1,4 @@
+// Note: AI was used for knowledge purposes only and treated as per knowledge.
 import { getSevereWeatherHazards } from '../utils/travelInsights';
 
 export default function HazardBanner({ data }) {

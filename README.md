@@ -1,3 +1,5 @@
+<!-- Note: AI was used for knowledge purposes only and treated as per knowledge. -->
+
 # SkyCast AI — Smart Weather & Travel Intelligence Platform 
 
 A modern, responsive weather & travel intelligence platform built with **React + Vite** and the **Open-Meteo API** (free, no API key required). Features an **AI-powered travel assistant** (Ollama Mistral) and **interactive weather map**. Built for the **PM Accelerator AI Engineer Intern Technical Assessment** (Frontend).

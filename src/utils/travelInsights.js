@@ -1,3 +1,4 @@
+// Note: AI was used for knowledge purposes only and treated as per knowledge.
 /**
  * Smart Travel & Weather Intelligence Engine
  * Computes outfit recommendations, outdoor activity suitability scores,

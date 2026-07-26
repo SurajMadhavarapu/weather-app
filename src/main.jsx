@@ -1,3 +1,4 @@
+// Note: AI was used for knowledge purposes only and treated as per knowledge.
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'

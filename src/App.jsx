@@ -1,3 +1,4 @@
+// Note: AI was used for knowledge purposes only and treated as per knowledge.
 import { useState, useCallback } from 'react';
 import SearchBar from './components/SearchBar';
 import CurrentWeather from './components/CurrentWeather';

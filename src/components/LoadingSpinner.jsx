@@ -1,3 +1,4 @@
+// Note: AI was used for knowledge purposes only and treated as per knowledge.
 export default function LoadingSpinner({ message = 'Fetching weather data...' }) {
   return (
     <div className="loading-spinner" id="loading-spinner" role="status">

@@ -1,3 +1,4 @@
+// Note: AI was used for knowledge purposes only and treated as per knowledge.
 import { WeatherIcon } from '../utils/weatherCodes';
 import { formatHour, convertTemp, isCurrentHour } from '../utils/helpers';
 

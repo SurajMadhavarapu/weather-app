@@ -1,3 +1,4 @@
+// Note: AI was used for knowledge purposes only and treated as per knowledge.
 // WMO Weather interpretation codes (WW)
 // https://open-meteo.com/en/docs
 //weatherCodeMap

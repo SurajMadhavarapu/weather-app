@@ -1,3 +1,4 @@
+// Note: AI was used for knowledge purposes only and treated as per knowledge.
 import { useState, useEffect, useCallback, useRef } from 'react';
 import { searchLocations } from '../services/weatherApi';
 import { debounce } from '../utils/helpers';

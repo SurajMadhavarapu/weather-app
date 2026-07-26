@@ -1,3 +1,4 @@
+// Note: AI was used for knowledge purposes only and treated as per knowledge.
 /**
  * Weather API service using Open-Meteo (free, no API key required)
  */
