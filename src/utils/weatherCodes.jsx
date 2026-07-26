@@ -1,11 +1,12 @@
 // WMO Weather interpretation codes (WW)
 // https://open-meteo.com/en/docs
+//weatherCodeMap
 const weatherCodeMap = {
   0: { description: 'Clear sky', icon: 'clear', group: 'clear' },
   1: { description: 'Mainly clear', icon: 'mainly-clear', group: 'clear' },
   2: { description: 'Partly cloudy', icon: 'partly-cloudy', group: 'cloudy' },
   3: { description: 'Overcast', icon: 'overcast', group: 'cloudy' },
-  45: { description: 'Foggy', icon: 'fog', group: 'fog' },
+  45: { description: 'Foggy', icon: 'fog', group: 'fog' }, 
   48: { description: 'Depositing rime fog', icon: 'fog', group: 'fog' },
   51: { description: 'Light drizzle', icon: 'drizzle', group: 'rain' },
   53: { description: 'Moderate drizzle', icon: 'drizzle', group: 'rain' },
